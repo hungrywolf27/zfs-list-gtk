@@ -13,3 +13,7 @@ Written in Python. Developed and tested on Ubuntu 18.04 only.
 
 ## Usage
 `zfs-list-gtk.py [-o property[,...]] [filesystem]`
+
+## Screenshot
+![image](https://user-images.githubusercontent.com/8271455/43026155-701a7006-8c42-11e8-9a64-856662762277.png)
+
